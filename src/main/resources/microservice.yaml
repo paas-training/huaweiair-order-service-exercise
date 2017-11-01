@@ -1,6 +1,6 @@
-APPLICATION_ID: pojotest
+APPLICATION_ID: acmeair
 service_description:
-  name: pojo
+  name: OrderService
   version: 0.0.1
 cse:
   service:
